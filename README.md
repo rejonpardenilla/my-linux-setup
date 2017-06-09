@@ -1,5 +1,4 @@
 # My linux setup
-/play vuvuzela
 
 This repo contains all the apps, user settings, styles and enviroment configs for developers in **Ubuntu 16.04**.
 
