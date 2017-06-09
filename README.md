@@ -15,7 +15,7 @@ Anyway, if somehow you end up re-installing Ubuntu (again), I recommend use all 
   - [System settings](#system)
   - [Apps](#apps)
   - [Terminal preferences](#terminal)
-  - [Chrome extentions](#chrome)
+  <!-- - [Chrome extensions](#chrome) -->
   - [VScode preferences](#editor)
   <!--
   - [Rails enviroment]()
@@ -86,7 +86,7 @@ Go to `System Settings > <kind-of-setting>`
 
 I use [Visual Studio Code](https://code.visualstudio.com/) for text editor.
 
-  ### Extentions
+  ### Extensions
 
   - Snazzy Operator
   - erb
